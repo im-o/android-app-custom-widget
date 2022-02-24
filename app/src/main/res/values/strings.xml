@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Widget Custom Android App</string>
+    <string name="rp">Rp</string>
+    <string name="nominal_value">Nominal Value</string>
 </resources>
